@@ -226,7 +226,7 @@ export const portfolioData: PortfolioData = {
     },
     {
       title:
-        "2nd Place Academic Excellence Award - Department of Data Science, University of Baghdad",
+        "2nd Place in Cohort - Department of Data Science, College of Excellence, University of Baghdad",
       date: "MAY 2026",
     },
     {
@@ -377,7 +377,7 @@ export const portfolioData: PortfolioData = {
             tag: "Recognition",
             date: "MAY 2026",
             title:
-              "2nd Place in Cohort - Department of Data Science, University of Baghdad",
+              "2nd Place in Cohort - Department of Data Science, College of Excellence, University of Baghdad",
           },
           {
             tag: "Hackathon",
@@ -522,7 +522,7 @@ export const portfolioData: PortfolioData = {
             tag: "تكريم",
             date: "أيار 2026",
             title:
-              "المرتبة الثانية على القسم - قسم علم البيانات، جامعة بغداد",
+              "المرتبة الثانية على القسم - قسم علم البيانات، كلية التميز، جامعة بغداد",
           },
           {
             tag: "هاكاثون",
@@ -552,7 +552,7 @@ export const portfolioData: PortfolioData = {
           },
           {
             title:
-              "الطلاقة في الذكاء الاصطناعي: اطار العمل والأساسيات - أكاديمية Claude",
+              "الطلاقة في الذكاء الاصطناعي: إطار العمل والأساسيات - أكاديمية Claude",
             date: "حزيران 2026",
           },
           {
