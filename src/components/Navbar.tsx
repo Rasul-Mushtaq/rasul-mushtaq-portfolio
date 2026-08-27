@@ -92,14 +92,14 @@ function Navbar() {
           <a
             href="#top"
             onClick={closeMenu}
-            className="flex shrink-0 items-center gap-2.5 no-underline"
+            className="flex items-center gap-2.5 no-underline"
           >
             <img
               src="/logo_v1.png"
               alt={t.hero.name}
               className="h-9 w-9 shrink-0 rounded-full object-contain"
             />
-            <span className="font-display text-lg leading-none tracking-tight text-slate-50 rtl-serif">
+            <span className="truncate max-w-[90px] sm:max-w-none font-display text-lg leading-none tracking-tight text-slate-50 rtl-serif">
               {t.hero.name}
               {hasAccent && (
                 <>
