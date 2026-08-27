@@ -12,15 +12,13 @@ Check it out: [Rasul Mushtaq's Portfolio](https://rasul-mushtaq-portfolio.netlif
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-18-087ea4?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6?logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6-9575ff?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8?logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-087ea4?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-9575ff?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?logo=tailwindcss&logoColor=white)
 
 ![Bilingual](https://img.shields.io/badge/Bilingual-English_%7C_Arabic_RTL-22c55e)
 ![Bundle Size](https://img.shields.io/badge/Bundle-~67_kB_gzip-4ade80)
-![No Backend](https://img.shields.io/badge/Backend-None-f8fafc)
-![Made In](https://img.shields.io/badge/Made_in-Baghdad,_Iraq-22c55e)
 
 </div>
 
@@ -115,3 +113,7 @@ The build output in `dist/` is plain static files, so it deploys anywhere: Netli
 - **Email:** [rasul.mhussien@gmail.com](mailto:rasul.mhussien@gmail.com)
 - **GitHub:** [github.com/Rasul-Mushtaq](https://github.com/Rasul-Mushtaq)
 - **LinkedIn:** [linkedin.com/in/rasul-mushtaq](https://linkedin.com/in/rasul-mushtaq)
+
+---
+
+> PS: i originally made this project to practice page responsiveness for mobile :p
