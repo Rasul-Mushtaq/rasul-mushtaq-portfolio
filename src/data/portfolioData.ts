@@ -374,10 +374,10 @@ export const portfolioData: PortfolioData = {
               "1st Annual Student Forum for AI Projects - Certificate of Participation",
           },
           {
-            tag: "Competition",
+            tag: "Recognition",
             date: "MAY 2026",
             title:
-              "2nd Place Academic Excellence Award - Department of Data Science, University of Baghdad",
+              "2nd Place in Cohort - Department of Data Science, University of Baghdad",
           },
           {
             tag: "Hackathon",
@@ -519,10 +519,10 @@ export const portfolioData: PortfolioData = {
               "الملتقى الطلابي الأول لمشاريع الذكاء الاصطناعي - شهادة مشاركة",
           },
           {
-            tag: "مسابقة",
+            tag: "تكريم",
             date: "أيار 2026",
             title:
-              "جائزة التميز الأكاديمي - المركز الثاني، قسم علم البيانات، جامعة بغداد",
+              "المرتبة الثانية على القسم - قسم علم البيانات، جامعة بغداد",
           },
           {
             tag: "هاكاثون",
