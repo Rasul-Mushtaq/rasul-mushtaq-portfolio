@@ -6,7 +6,7 @@
 
 **Personal portfolio for a Data Science student at the University of Baghdad.**
 
-Check it out: [Rasul Mushtaq's Portfolio](https://Netlify.app.rasul-mushtaq-portfolio)
+Check it out: [Rasul Mushtaq's Portfolio](https://rasul-mushtaq-portfolio.netlify.app)
 
 </div>
 
