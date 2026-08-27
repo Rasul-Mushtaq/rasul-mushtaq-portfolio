@@ -13,12 +13,14 @@ export default {
       },
       fontFamily: {
         display: [
+          '"Reem Kufi"',
           '"Instrument Serif"',
           '"Playfair Display"',
           "Georgia",
           "serif",
         ],
         body: [
+          '"Tajawal"',
           '"Plus Jakarta Sans"',
           "Inter",
           "ui-sans-serif",
