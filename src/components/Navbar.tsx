@@ -99,7 +99,7 @@ function Navbar() {
               alt={t.hero.name}
               className="h-9 w-9 shrink-0 rounded-full object-contain"
             />
-            <span className="truncate max-w-[90px] sm:max-w-none font-display text-lg leading-none tracking-tight text-slate-50 rtl-serif">
+            <span className="hidden sm:inline font-display text-lg leading-none tracking-tight text-slate-50 rtl-serif">
               {t.hero.name}
               {hasAccent && (
                 <>
