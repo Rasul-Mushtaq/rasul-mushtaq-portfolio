@@ -55,7 +55,7 @@ function Education() {
                 <h3 className="font-display text-3xl leading-tight tracking-tight text-slate-50 rtl-serif">
                   {degree}
                 </h3>
-                <span className="shrink-0 rounded-full border border-emerald-400/30 px-3 py-1 font-mono text-[11px] uppercase tracking-[0.15em] text-emerald-300">
+                <span className="max-w-full rounded-2xl sm:rounded-full border border-emerald-400/30 px-3 py-1 font-mono text-[11px] uppercase tracking-[0.15em] text-emerald-300">
                   {t.education.period || edu.period}
                 </span>
               </div>
