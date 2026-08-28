@@ -106,7 +106,6 @@ export interface Translation {
   };
   footer: {
     rights: string;
-    builtWith: string;
   };
 }
 
