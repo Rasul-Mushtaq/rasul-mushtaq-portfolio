@@ -55,7 +55,7 @@ function Hero() {
 
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
           <a
-            href="/Rasul_Mushtaq_CV.pdf"
+            href="/Rasul_Mushtaq_CV_2026.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full bg-emerald-400 px-7 py-3 text-sm font-bold tracking-wide text-brand-ink no-underline transition-colors hover:bg-emerald-300"
