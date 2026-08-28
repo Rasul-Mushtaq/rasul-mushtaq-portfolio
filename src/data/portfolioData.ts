@@ -442,7 +442,6 @@ export const portfolioData: PortfolioData = {
       },
       footer: {
         rights: "All rights reserved.",
-        builtWith: "Built with React, TypeScript & Tailwind CSS",
       },
     },
     ar: {
@@ -585,7 +584,6 @@ export const portfolioData: PortfolioData = {
       },
       footer: {
         rights: "جميع الحقوق محفوظة.",
-        builtWith: "بُني باستخدام React وTypeScript وTailwind CSS",
       },
     },
   },
