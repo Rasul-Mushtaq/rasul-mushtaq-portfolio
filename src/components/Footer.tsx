@@ -43,9 +43,6 @@ function Footer() {
           <p className="text-sm text-slate-400">
             © {year} {portfolioData.name}. {t.footer.rights}
           </p>
-          <p className="font-mono text-[11px] uppercase tracking-[0.2em] text-slate-600">
-            {t.footer.builtWith}
-          </p>
         </div>
       </div>
     </footer>
