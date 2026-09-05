@@ -6,7 +6,7 @@
 
 **Personal portfolio for a Data Science student at the University of Baghdad.**
 
-Check it out: [Rasul Mushtaq's Portfolio](https://rasul-mushtaq-portfolio.netlify.app)
+**Check it out: [Rasul Mushtaq's Portfolio](https://rasul-mushtaq-portfolio.netlify.app)**
 
 </div>
 
@@ -18,7 +18,6 @@ Check it out: [Rasul Mushtaq's Portfolio](https://rasul-mushtaq-portfolio.netlif
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?logo=tailwindcss&logoColor=white)
 
 ![Bilingual](https://img.shields.io/badge/Bilingual-English_%7C_Arabic_RTL-22c55e)
-![Bundle Size](https://img.shields.io/badge/Bundle-~67_kB_gzip-4ade80)
 
 </div>
 
